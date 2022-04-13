@@ -25,7 +25,7 @@ experience:
   - title: Visiting Researcher
     company: IAMECON
     company_url: 'https://www.iamecon.com/'
-    company_logo: org-gc
+    company_logo: IAMECON-logo
     location: Bangalore, India 
     date_start: '2021-10-01'
     date_end: ''
