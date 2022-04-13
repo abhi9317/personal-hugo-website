@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Abhi Kumar
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Visiting Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: IAMECON
+  url: https://www.iamecon.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -25,9 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  - course: Masters in Management Studies
+    institution: Yale University
+    year: 2019
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
