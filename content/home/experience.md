@@ -34,7 +34,7 @@ experience:
   - title: Venture Partner / Associate
     company: Lever VC
     company_url: 'https://www.levervc.com/'
-    company_logo:Lever-VC-logo
+    company_logo: Lever-VC-logo
     location: San Francisco, California
     date_start: '2019-07-01'
     date_end: '2021-09-30'
@@ -43,7 +43,7 @@ experience:
   - title: Investment Associate
     company: Ahimsa VC
     company_url: 'https://www.ahimsa.vc/'
-    company_logo:AVC_logo_website
+    company_logo: AVC_logo_website
     location: Bangalore, India
     date_start: '2020-12-01'
     date_end: '2021-08-31'
