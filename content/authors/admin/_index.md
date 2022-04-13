@@ -68,5 +68,3 @@ highlight_name: true
 
 I'm currently a visiting researcher at IAMECON where I'm studying the future cost of producing plant-based meat through expert elicitations and formal modeling. Before IAMECON, I worked in venture capital and helped make investments in the global alternative protein industry.  
 My current research interests are largely centered around the economics of non-humans (primarily animals and artificial intelligence). In particular, I enjoy applying microeconomic theory to understand and improve relationships between human and non-human actors.   
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
