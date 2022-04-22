@@ -16,7 +16,7 @@ image:
   focal_point: ""
   placement: 2
   preview_only: false
-  filename: https://unsplash.com/photos/dBI_My696Rk
+  filename: ""
 ---
 I first came across the concept of Bayesian statistics a couple of years ago and thought it was a bit strange that I'd never actually been exposed to it in any depth during my academic life through the 2010s (which involved a fair bit of statistics and psychometrics). 
 
